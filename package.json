@@ -35,7 +35,7 @@
         "chartjs-color-string": "^0.5.0",
         "chartjs-plugin-datalabels": "0.6.0",
         "core-js": "^2.5.7",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "jquery": "^3.3.1",
         "lodash": "^4.17.15",
         "ng2-charts": "^1.6.0",
